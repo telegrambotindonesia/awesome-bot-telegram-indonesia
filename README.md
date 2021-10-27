@@ -1,10 +1,15 @@
 # Awesome Bot Telegram Indonesia
 
-![visit](https://badges.pufler.dev/visits/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub last commit](https://img.shields.io/github/last-commit/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub issues](https://img.shields.io/github/issues/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub contributors](https://img.shields.io/github/contributors/telegrambotindonesia/awesome-bot-telegram-indonesia)
+![visit](https://badges.pufler.dev/visits/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub last commit](https://img.shields.io/github/last-commit/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub issues](https://img.shields.io/github/issues/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub pull requests](https://img.shields.io/github/issues-pr/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/telegrambotindonesia/awesome-bot-telegram-indonesia) ![GitHub contributors](https://img.shields.io/github/contributors/telegrambotindonesia/awesome-bot-telegram-indonesia)
 
-Berkontribusi dipersilakan dengan mengclone dan membuat pull request.
+Berkolaborasi dipersilakan dengan mengclone dan membuat pull request.
 
 Repo yang (berusaha) akan _uptodate_ untuk memuat tentang segala hal bot indonesia. Belajar, komunitas, daftar bot, dan segala hal tentang bot dalam negeri.
+
+![GitHub forks](https://img.shields.io/github/forks/telegrambotindonesia/awesome-bot-telegram-indonesia?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/telegrambotindonesia/awesome-bot-telegram-indonesia?style=social)
+
+
+<!-- mulai dari sini ya perubahannya -->
 
 ## Grup dan Channel
 
