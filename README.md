@@ -18,6 +18,7 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 ## Tutorial
 
 - [Membuat Bot Telegram GRATIS dengan Google Apps Script](https://s.id/gasbot)
+- [Cara deploy bot music Telegram di termux](https://madewgn.github.io/artikel/cara-deploy-bot-music-di-termux/)
 
 
 ## Library & Framework
