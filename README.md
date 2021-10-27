@@ -4,7 +4,7 @@
 
 Berkontribusi dipersilakan dengan mengclone dan membuat pull request.
 
-Berisi tentang segala hal tentang bot indonesia. Belajar bot, komunitas, daftar bot, dan segala hal tentang bot dalam negeri.
+Repo yang (berusaha) akan _uptodate_ untuk memuat tentang segala hal bot indonesia. Belajar, komunitas, daftar bot, dan segala hal tentang bot dalam negeri.
 
 ## Grup dan Channel
 
