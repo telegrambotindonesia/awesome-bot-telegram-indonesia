@@ -44,7 +44,7 @@ Hanya yang gratis saja di sini ya..
 - [Heroku](https://www.heroku.com/) bisa untuk bot api dan userbot, bahasa pemrograman bebas
 - [AWS Free](https://aws.amazon.com/id/free/) vps free tier 1 tahun, perlu kartu kredit untuk mengaktifkan.
 - [Azure Free](https://azure.microsoft.com/en-us/free/) ada free credit sebesar 200$, perlu credit card untuk mengaktifkan
-
+- [Replit Free](https://replit.com/site/pricing) bisa untuk deploy ± semua bahasa pemrograman.
 ---
 
 ## Daftar Bot
