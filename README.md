@@ -4,6 +4,8 @@
 
 Berkontribusi dipersilakan dengan mengclone dan membuat pull request.
 
+Berisi tentang segala hal tentang bot indonesia. Belajar bot, komunitas, daftar bot, dan segala hal tentang bot dalam negeri.
+
 ## Grup dan Channel
 
 Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan membantu belajar dan mengembangkan kemampuanmu dalam membuat bot telegram.
