@@ -38,7 +38,7 @@ Hanya yang gratis saja di sini ya..
 - [Google Apps Script](https://script.google.com) -- berbasis javascript, hanya untuk bot api
 - [Heroku](https://www.heroku.com/) bisa untuk bot api dan userbot, bahasa pemrograman bebas
 - [AWS Free](https://aws.amazon.com/id/free/) vps free tier 1 tahun, perlu kartu kredit untuk mengaktifkan.
-
+- [Azure Free](https://azure.microsoft.com/en-us/free/) ada free credit sebesar 200$, perlu credit card untuk mengaktifkan
 
 ---
 
