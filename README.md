@@ -22,7 +22,12 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 
 ## Tutorial
 
-- [Membuat Bot Telegram GRATIS dengan Google Apps Script](https://s.id/gasbot)
+### Google Apps Script
+
+- [Materi Membuat Bot Telegram GRATIS dengan Google Apps Script](https://s.id/gasbot)
+
+
+### Tutorial Made
 - [Cara deploy bot music Telegram di termux](https://madewgn.github.io/artikel/cara-deploy-bot-music-di-termux/)
 - [belajar membuat bot telegram sederhana dengan python](https://madewgn.github.io/artikel/cara-membuat-bot-telegram-sederhana-dengan-python/)
 
@@ -67,5 +72,7 @@ Bot karya anak negeri yang memiliki fitur khusus.
 - [@apidocsbot](https://t.me/apidocsbot) bot yang membantu menginformasikan tentang method bot API
 - [@oneGooglebot](https://t.me/oneGooglebot) bot berbasis GAS, memiliki fungsi penerjemah, peta, dan OCR.
 - [@YT_Thumbnail_generator_bot](https://t.me/YT_Thumbnail_generator_bot) bot untuk download Thumbnail Youtube
+
+
 
 [gramjs]: https://github.com/gram-js/gramjs
