@@ -28,9 +28,9 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 
 
 ### Tutorial Made
-- [Cara deploy bot music Telegram di termux](https://madewgn.github.io/artikel/cara-deploy-bot-music-di-termux/)
-- [belajar membuat bot telegram sederhana dengan python](https://madewgn.github.io/artikel/cara-membuat-bot-telegram-sederhana-dengan-python/)
-
+- [Cara deploy bot music Telegram di termux](https://www.madewgn.my.id/artikel/cara-deploy-bot-music-di-termux/)
+- [belajar membuat bot telegram sederhana dengan python](https://www.madewgn.my.id/artikel/cara-membuat-bot-telegram-sederhana-dengan-python/)
+- [cara deploy corona info bot di heroku](https://www.madewgn.my.id/artikel/cara-deploy-corona-info-bot/)
 ## Library & Framework
 
 - [PHPTeleBot](https://github.com/radyakaze/phptelebot) library Telegram untuk PHP
