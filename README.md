@@ -58,6 +58,11 @@ Silakan ditambahkan bot kalian di sini yang masih aktif. Bot hanya buatan anak n
 
 Bot yang sudah tidak aktif agar dihapus atau dicoret.
 
+- [Video Encoder Bot](https://t.me/RiseliaBot) Encode video file ke x265. NOTE: Untuk mencegah spam saya membatasi pengguna bot, Jika ingin menggunakan bot maka [chat saya](https://t.me/OwnerCH_Bot).
+- [English Chatbot](https://t.me/TokisakiChatBot) Simple and Fast Chatbot. [Repository](https://t.me/zYxDevs/KurumiChatbot).
+- [Anime Info Robot](https://t.me/TomoeRobot) Fitur: Livechat.me, Crunchyroll, Subsplease updates notify, Auth to [AniList](https://anilist.co) account.
+- [Asuna Yuuki](https://t.me/YogaWaifuBot) Group Management Bot with many features, [check here](https://t.me/YogaWaifuBot?start=help).
+
 ### Group / Channel
 
 Pengelolaan Group ataupun Channel
