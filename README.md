@@ -28,9 +28,9 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 
 
 ### Tutorial Made
-- [Cara deploy bot music Telegram di termux](https://www.madewgn.my.id/artikel/cara-deploy-bot-music-di-termux/)
-- [belajar membuat bot telegram sederhana dengan python](https://www.madewgn.my.id/artikel/cara-membuat-bot-telegram-sederhana-dengan-python/)
-- [cara deploy corona info bot di heroku](https://www.madewgn.my.id/artikel/cara-deploy-corona-info-bot/)
+- [Cara deploy bot music Telegram di termux](https://www.madewgn.my.id/artikel/termux/cara-deploy-bot-music-di-termux/)
+- [belajar membuat bot telegram sederhana dengan python](https://www.madewgn.my.id/artikel/python/cara-membuat-bot-telegram-sederhana/)
+- [cara deploy corona info bot di heroku](https://www.madewgn.my.id/artikel/bot/cara-deploy-corona-info-bot/)
 ## Library & Framework
 
 - [PHPTeleBot](https://github.com/radyakaze/phptelebot) library Telegram untuk PHP
@@ -50,6 +50,7 @@ Hanya yang gratis saja di sini ya..
 - [AWS Free](https://aws.amazon.com/id/free/) vps free tier 1 tahun, perlu kartu kredit untuk mengaktifkan.
 - [Azure Free](https://azure.microsoft.com/en-us/free/) ada free credit sebesar 200$, perlu credit card untuk mengaktifkan
 - [Replit Free](https://replit.com/site/pricing) bisa untuk deploy ± semua bahasa pemrograman.
+- [Railway Free](https://railway.app) mirip heroku (harus punya akun Github minimal 30 hari)
 ---
 
 ## Daftar Bot
