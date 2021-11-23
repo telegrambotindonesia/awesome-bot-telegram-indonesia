@@ -19,6 +19,7 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 - [@botphp](https://t.me/botphp) khusus membahas bot telegram dalam bahasa PHP
 - [@ubotindonesia](https://t.me/ubotindonesia) diskusi khusus membahas user bot
 - [@botkoleksi](https://t.me/botkoleksi) channel informasi bot yang patut dikoleksi
+- [@SharingUserbot](https://t.me/SharingUserbot) tempat berdiskusi & berbagi bot telegram
 
 ## Tutorial
 
@@ -28,9 +29,11 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 
 
 ### Tutorial Made
+- [Belajar membuat bot telegram sederhana dengan python](https://www.madewgn.my.id/artikel/python/cara-membuat-bot-telegram-sederhana/)
+- [Cara deploy corona info bot di heroku](https://www.madewgn.my.id/artikel/bot/cara-deploy-corona-info-bot/)
 - [Cara deploy bot music Telegram di termux](https://www.madewgn.my.id/artikel/termux/cara-deploy-bot-music-di-termux/)
-- [belajar membuat bot telegram sederhana dengan python](https://www.madewgn.my.id/artikel/python/cara-membuat-bot-telegram-sederhana/)
-- [cara deploy corona info bot di heroku](https://www.madewgn.my.id/artikel/bot/cara-deploy-corona-info-bot/)
+- [Cara deploy userbot telegram dengan Repo Man-Userbot](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)
+
 ## Library & Framework
 
 - [PHPTeleBot](https://github.com/radyakaze/phptelebot) library Telegram untuk PHP
@@ -39,7 +42,7 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 - [TGSnake](https://github.com/butthx/tgsnake) userbot berbasis [gramjs]
 - [HSubot](https://github.com/banghasan/hsubot) userbot berbasis [TDLib](https://github.com/tdlib/td)
 - [String Generator](https://telegram.banghasan.com/ubotstring/) untuk userbot berbasis [gramjs]
-
+- [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish)
 
 ## Hosting
 
@@ -63,6 +66,8 @@ Bot yang sudah tidak aktif agar dihapus atau dicoret.
 - [English Chatbot](https://t.me/TokisakiChatBot) Simple and Fast Chatbot. [Repository](https://t.me/zYxDevs/KurumiChatbot).
 - [Anime Info Robot](https://t.me/TomoeRobot) Fitur: Livechat.me, Crunchyroll, Subsplease updates notify, Auth to [AniList](https://anilist.co) account.
 - [Asuna Yuuki](https://t.me/YogaWaifuBot) Group Management Bot with many features, [check here](https://t.me/YogaWaifuBot?start=help).
+- [String Man](https://t.me/StringManRobot) pembuat string session pyrogram & telethon dengan bot telegram.
+- [Astro Man](https://t.me/asisstenmanbot) Bot Manajemen Grup dengan banyak fitur yang mudah dan simple [cek disini](https://t.me/asisstenmanbot?start=help).
 
 ### Group / Channel
 
