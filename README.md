@@ -49,13 +49,22 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 
 Hanya yang gratis saja di sini ya..
 
-- [Google Apps Script](https://script.google.com) -- berbasis javascript, hanya untuk bot api
+- [Google Apps Script](https://script.google.com) -- Berbasis javascript, hanya untuk bot api
 - [Heroku](https://www.heroku.com/) -- Untuk bot api dan userbot, bahasa pemrograman bebas
 - [AWS Free](https://aws.amazon.com/id/free/) -- VPS free tier 1 tahun, perlu kartu kredit untuk mengaktifkan.
 - [Azure Free](https://azure.microsoft.com/en-us/free/) -- Free credit sebesar 200$, perlu credit card untuk 
   mengaktifkan
 - [Replit Free](https://replit.com/site/pricing) -- Bisa untuk deploy ± semua bahasa pemrograman.
 - [Railway Free](https://railway.app) -- Mirip heroku (harus punya akun Github minimal 30 hari)
+
+## Database
+
+Hanya yang gratis saja disini ya..
+
+- [ElephantSQL](https://www.elephantsql.com) -- Database sql (20mb) gratis
+- [Railway](https://railway.app) -- Database sql (450mb), mongo (500mb) dan redis (450mb) gratis
+- [MongoDB](https://www.mongodb.com) -- Database mongo (500mb) gratis
+- [RedisLab](https://redis.com) -- Database redis (15mb) gratis
 ---
 
 ## Daftar Bot
@@ -64,14 +73,12 @@ Silakan ditambahkan bot kalian di sini yang masih aktif. Bot hanya buatan anak n
 
 Bot yang sudah tidak aktif agar dihapus atau dicoret.
 
+- [String Session Robot](https://t.me/GetStringRobot) -- Generate string session pyrogram/telethon untuk userbot.
 - [Video Encoder Bot](https://t.me/RiseliaBot) -- Encode video file ke x265. NOTE: Untuk mencegah spam saya membatasi 
   pengguna bot, Jika ingin menggunakan bot maka [chat saya](https://t.me/OwnerCH_Bot).
-- [English Chatbot](https://t.me/TokisakiChatBot) -- Simple and Fast Chatbot. [Repository](https://t.
-  me/zYxDevs/KurumiChatbot).
-- [Anime Info Robot](https://t.me/TomoeRobot) -- Fitur: Livechat.me, Crunchyroll, Subsplease updates notify, Auth to 
-  [AniList](https://anilist.co) account.
-- [Asuna Yuuki](https://t.me/YogaWaifuBot) -- Group Management Bot with many features, [check here](https://t.
-  me/YogaWaifuBot?start=help).
+- [English Chatbot](https://t.me/TokisakiChatBot) -- Simple and Fast Chatbot. [Repository](https://t.me/zYxDevs/KurumiChatbot).
+- [Anime Info Robot](https://t.me/TomoeRobot) -- Fitur: Livechat.me, Crunchyroll, Subsplease updates notify, Auth to [AniList](https://anilist.co) account.
+- [Asuna Yuuki](https://t.me/YogaWaifuBot) -- Group Management Bot with many features, [check here](https://t.me/YogaWaifuBot?start=help).
 
 ### Group / Channel
 
