@@ -19,6 +19,8 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 - [@botphp](https://t.me/botphp) -- Khusus membahas bot telegram dalam bahasa PHP
 - [@ubotindonesia](https://t.me/ubotindonesia) -- Diskusi khusus membahas user bot
 - [@botkoleksi](https://t.me/botkoleksi) -- Channel informasi bot yang patut dikoleksi
+- [@pyrogramid](https://t.me/pyrogramid) -- Diskusi khusus membahas framework pyrogram berbahasa indonesia.
+- [@telethon_id](https://t.me/telethon_id) -- Diskusi khusus membahas framework telethon berbahasa indonesia.
 
 ## Tutorial
 
@@ -65,6 +67,7 @@ Hanya yang gratis saja disini ya..
 - [Railway](https://railway.app) -- Database sql (450mb), mongo (500mb) dan redis (450mb) gratis
 - [MongoDB](https://www.mongodb.com) -- Database mongo (500mb) gratis
 - [RedisLab](https://redis.com) -- Database redis (15mb) gratis
+- [FaunaDb](https://fauna.com/pricing) -- Gratis selamanya dengan kapasitas bulanan (100k read ops, 50k write ops, 500k compute ops, 5GB storage).
 ---
 
 ## Daftar Bot
