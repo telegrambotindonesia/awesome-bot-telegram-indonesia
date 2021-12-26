@@ -19,6 +19,7 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 - [@botphp](https://t.me/botphp) -- Khusus membahas bot telegram dalam bahasa PHP
 - [@ubotindonesia](https://t.me/ubotindonesia) -- Diskusi khusus membahas user bot
 - [@botkoleksi](https://t.me/botkoleksi) -- Channel informasi bot yang patut dikoleksi
+- [@pyrogramid](https://t.me/pyrogramid) -- Diskusi khusus membahas framework pyrogram berbahasa indonesia.
 
 ## Tutorial
 
