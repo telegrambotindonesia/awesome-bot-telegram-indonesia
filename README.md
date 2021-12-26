@@ -20,6 +20,7 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 - [@ubotindonesia](https://t.me/ubotindonesia) -- Diskusi khusus membahas user bot
 - [@botkoleksi](https://t.me/botkoleksi) -- Channel informasi bot yang patut dikoleksi
 - [@pyrogramid](https://t.me/pyrogramid) -- Diskusi khusus membahas framework pyrogram berbahasa indonesia.
+- [@telethon_id](https://t.me/telethon_id) -- Diskusi khusus membahas framework telethon berbahasa indonesia.
 
 ## Tutorial
 
