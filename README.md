@@ -51,13 +51,16 @@ Ruang diskusi grup dan channel pada Telegram dalam bahasa indonesia yang akan me
 
 Hanya yang gratis saja di sini ya..
 
-- [Google Apps Script](https://script.google.com) -- Berbasis javascript, hanya untuk bot api
-- [Heroku](https://www.heroku.com/) -- Untuk bot api dan userbot, bahasa pemrograman bebas
+- [Google Apps Script](https://script.google.com) -- Berbasis javascript, hanya untuk bot api.
+- [Heroku](https://www.heroku.com/) -- Untuk bot api dan userbot, bahasa pemrograman bebas.
 - [AWS Free](https://aws.amazon.com/id/free/) -- VPS free tier 1 tahun, perlu kartu kredit untuk mengaktifkan.
 - [Azure Free](https://azure.microsoft.com/en-us/free/) -- Free credit sebesar 200$, perlu credit card untuk 
-  mengaktifkan
+  mengaktifkan.
 - [Replit Free](https://replit.com/site/pricing) -- Bisa untuk deploy ± semua bahasa pemrograman.
-- [Railway Free](https://railway.app) -- Mirip heroku (harus punya akun Github minimal 30 hari)
+- [Railway Free](https://railway.app) -- Mirip heroku (harus punya akun Github minimal 30 hari).
+- [Okteto Free](https://okteto.com) -- Gratis, tapi: Ram 5 GB, Storage 5 GB, 24 jam app tidak ada aktifitas = sleep.
+- [Kintohub](https://kintohub.com) -- Gratis, tapi harus install UI, for Kubernetes.
+- [Vercel](https://vercel.com) -- Gratis (js, php).
 
 ## Database
 
